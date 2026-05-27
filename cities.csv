@@ -1,0 +1,88 @@
+﻿SLOC,City,Location,Region
+5015,Dadra and Nagar Ha,Dadra and Nagar Ha,East
+5019,Export HUB,Pune,West 1
+5061,Kolkata - FSB,Kolkatta,East
+5062,Ranchi - FSB,Ranchi,East
+5063,Orissa - FSB,Orissa,East
+5064,Guwahati,Guwahati,East
+5065,Patna - FSB,Patna,East
+5066,Nagaland,Nagaland,East
+5067,Arunachal Pradesh,Arunachal Pradesh,East
+5068,Meghalaya,Meghalaya,East
+5069,Siliguri,Siliguri,East
+5070,Sikkim,Sikkim,East
+5071,Mizoram,Mizoram,East
+5090,Testing Center,Pune,West 1
+509A,Aurangabad FSB,Aurangabad,East
+5021,Delhi - FSB,Delhi,North1
+5022,UP - FSB,Uttar Pradesh,North1
+5023,Haryana - FSB,Haryana,North1
+5024,Jaipur - FSB,Jaipur,North1
+5028,Uttaranchal - FSB,Uttaranchal,North1
+5029,Haryana,Haryana,North1
+5030,Delhi2 - FSB,Delhi,North1
+5031,Gwalior (MP),Gwalior,North1
+5033,Lucknow,Lucknow,North1
+5036,Udaipur BR,Udaipur,North1
+5037,Agra,Agra,North1
+5038,Haryana - CHD BR,Haryana,North1
+5040,Faridabad - FSB,Faridabad,North1
+5025,Punjab - FSB,Punjab,North2
+5026,Chandigarh - FSB,Chandigarh,North2
+5027,H. P. - FSB,Himachal Pradesh,North2
+5032,Haryana CHD,Haryana,North2
+5034,Jammu - FSB,Jammu,North2
+5035,Delhi 2,Delhi,North2
+5039,Ludhiana BR,Ludhiana,North2
+5082,Faridabad - HUB,Faridabad,North2
+5084,FBD Palwal - HUB,Palwal,North2
+5TMC,TMC CENTER,Delhi,North 2
+5041,Bangalore - FSB,Bangalore,South
+5042,Hyderabad - FSB,Hyderabad,South
+5043,Chennai - FSB,Chennai,South
+5044,Cochin - FSB,Cochin,South
+5045,Pondicherry,Pondicherry ,South
+5046,Andhra Pradesh,Andhra Pradesh,South
+5047,Mangalore,Mangalore,South
+5048,Bangalore 2,Bangalore,South
+5049,Tamilnadu - FSB,Tamilnadu,South
+5050,Hubli-Dharwad BR,Hubli Dharwad,South
+5051,Hyderabad - 2 BR,Hyderabad,South
+5052,Warangal,Warangal,South
+5053,Vizag,Vizag,South
+5060,Hosur - FSB,Hosur,South
+5083,Hosur - FSB,Hosur,South
+50B1,Bangalore Metro,Bangalore,South
+50BK,2BHK Product,Bangalore,South
+50BL,,Bangalore,South
+50C1,Cochin Metro,Cochin,South
+5018,TRD,Mumbai,West 1
+5000,Mumbai - HO,Mumbai,West1
+5001,Mumbai - FSB,Mumbai,West1
+5002,Navi Mumbai - FSB,Navi Mumbai,West1
+5003,Pune - FSB,Pune,West1
+5009,Nashik - FSB,Nashik,West1
+5011,Virar West - FSB,Virar,West1
+5012,Pune 2,Pune,West1
+5016,Virar ,Virar,West1
+5017,KDMC,Thane,West1
+5020,EI Mother - FSB,Pune,West1
+5081,Bhiwandi - HUB,Bhiwandi,West1
+58M1,Mumbai Metro,Mumbai,West1
+50P1,Pune Metro,Pune,West1
+50S1,MotherFSB Shade 1,Pune,West1
+50S2,MotherFSB Shade 2,Pune,West1
+5004,Goa - FSB,Goa,West2
+5005,Ahmedabad - FSB,Ahmedabad,West2
+5006,Indore - FSB,Indore,West2
+5007,Raipur - FSB,Raipur,West2
+5008,Nagpur,Nagpur,West2
+5010,Surat - FSB,Surat,West2
+5013,Daman and Diu,Daman and Diu,West2
+5014,Vadodara,Vadodara,West2
+50N1,Nagpur Metro,Nagpur,West2
+5085,Claim,Pune,West 1
+5086,Scrap/Damage,Pune ,West 1
+50NM,,Mumbai,West 1
+50TC,IND-TCT,Pune,West 1
+50RD,CRD Warehouse,Pune,West 1
