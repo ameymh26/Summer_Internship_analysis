@@ -1,0 +1,140 @@
+==================================================
+ENVIRONMENTAL RELIABILITY ANALYSIS SUMMARY
+==================================================
+Total Findings : 20
+High Relevance Findings : 20
+Moderate Relevance Findings : 0
+
+
+TOP FINDINGS
+--------------------------------------------------
+
+[HIGH]
+
+Parameter : Temperature
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Kruskal.xlsx
+P-Value   : 3.65804158922663e-46
+
+Interpretation:
+Non-parametric significant variation detected in
+Temperature analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Temperature
+Test      : ANOVA
+Group     : SLoc_Wise_ANOVA.xlsx
+P-Value   : 1.220020236342687e-39
+
+Interpretation:
+Significant group variation detected in
+Temperature analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Humidity
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Kruskal.xlsx
+P-Value   : 1.537096343332351e-14
+
+Interpretation:
+Non-parametric significant variation detected in
+Humidity analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Delta_T
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Kruskal.xlsx
+P-Value   : 1.537096343332351e-14
+
+Interpretation:
+Non-parametric significant variation detected in
+Delta_T analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Temperature
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Seasonal_Kruskal.xlsx
+P-Value   : 2.642401517466295e-06
+
+Interpretation:
+Non-parametric significant variation detected in
+Temperature analysis during
+Seasonal Analysis.
+
+
+[HIGH]
+
+Parameter : Humidity
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Seasonal_Kruskal.xlsx
+P-Value   : 2.642401517466295e-06
+
+Interpretation:
+Non-parametric significant variation detected in
+Humidity analysis during
+Seasonal Analysis.
+
+
+[HIGH]
+
+Parameter : Delta_T
+Test      : Kruskal Wallis
+Group     : SLoc_Wise_Seasonal_Kruskal.xlsx
+P-Value   : 2.642401517466295e-06
+
+Interpretation:
+Non-parametric significant variation detected in
+Delta_T analysis during
+Seasonal Analysis.
+
+
+[HIGH]
+
+Parameter : Humidity
+Test      : ANOVA
+Group     : SLoc_Wise_ANOVA.xlsx
+P-Value   : 6.200861619897787e-06
+
+Interpretation:
+Significant group variation detected in
+Humidity analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Delta_T
+Test      : ANOVA
+Group     : SLoc_Wise_ANOVA.xlsx
+P-Value   : 6.200861619897787e-06
+
+Interpretation:
+Significant group variation detected in
+Delta_T analysis during
+Monthly Analysis.
+
+
+[HIGH]
+
+Parameter : Temperature
+Test      : ANOVA
+Group     : SLoc_Wise_Seasonal_ANOVA.xlsx
+P-Value   : 0.003224105991186482
+
+Interpretation:
+Significant group variation detected in
+Temperature analysis during
+Seasonal Analysis.
+
