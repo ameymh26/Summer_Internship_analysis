@@ -1,0 +1,7 @@
+Order,Material,SLoc,Quantity,Pstng Date,Year,Tavg,Tmax,Tmin,RH,Month,Season,Delta_T,Region,Location
+53074420,106,5030,-1,2023-02-21,2023,20.51,31.8,13.02,38.61,2,Winter,18.78,North1,Delhi
+53074406,106,5030,-1,2023-02-21,2023,20.51,31.8,13.02,38.61,2,Winter,18.78,North1,Delhi
+54577361,106,5004,-1,2023-10-23,2023,24.17,31.05,18.86,75.39,10,Post-Monsoon,12.19,West2,Goa
+54660505,106,5064,-1,2023-11-07,2023,19.77,27.63,14.43,76.09,11,Post-Monsoon,13.2,East,Guwahati
+54681867,106,5041,-1,2023-11-08,2023,23.21,28.18,19.48,83.33,11,Post-Monsoon,8.7,South,Bangalore
+54874687,106,5042,-1,2023-12-09,2023,21.16,28.9,15.5,67.92,12,Winter,13.4,South,Hyderabad
