@@ -1,1 +1,1 @@
-Material,SLoc,Quantity,Pstng Date,order,Equipment,Technician name,Merge_Date,Year,SLOC,Tavg,Tmax,Tmin,RH,Month,Season,Delta_T
+Order,Material,SLoc,Quantity,Pstng Date,Merge_Date,Year,SLOC,Tavg,Tmax,Tmin,RH,Month,Season,Delta_T
